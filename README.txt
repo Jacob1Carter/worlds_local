@@ -1,1 +1,0 @@
-C:\Users\USERNAME\AppData\LocalLow\IronGate\Valheim\worlds_local
